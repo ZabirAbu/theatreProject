@@ -1,0 +1,57 @@
+C:\Users\Zabir\Desktop\vb coding\theatreProject\bin\Debug\theatreProject.exe.config
+C:\Users\Zabir\Desktop\vb coding\theatreProject\bin\Debug\theatreProject.exe
+C:\Users\Zabir\Desktop\vb coding\theatreProject\bin\Debug\theatreProject.pdb
+C:\Users\Zabir\Desktop\vb coding\theatreProject\bin\Debug\theatreProject.xml
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.vbprojAssemblyReference.cache
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.frmHome.resources
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.Resources.resources
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.StaffInput.resources
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.staffPage.resources
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.vbproj.GenerateResource.cache
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.vbproj.CoreCompileInputs.cache
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.exe
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.xml
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.pdb
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.shows.resources
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.customerInfo.resources
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.booking.resources
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.ticketInfo.resources
+C:\Users\Zabir\Desktop\vb coding\theatreProject\obj\Debug\theatreProject.cancel.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\bin\Debug\theatreProject.exe.config
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\bin\Debug\theatreProject.exe
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\bin\Debug\theatreProject.pdb
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\bin\Debug\theatreProject.xml
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.vbprojAssemblyReference.cache
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.booking.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.cancel.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.Customerinfo.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.ticketInfo.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.frmHome.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.Resources.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.shows.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.StaffInput.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.staffPage.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.vbproj.GenerateResource.cache
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.vbproj.CoreCompileInputs.cache
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.exe
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.xml
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProjectLast\theatreProject\obj\Debug\theatreProject.pdb
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\bin\Debug\theatreProject.exe.config
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\bin\Debug\theatreProject.exe
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\bin\Debug\theatreProject.pdb
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\bin\Debug\theatreProject.xml
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.vbprojAssemblyReference.cache
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.booking.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.cancel.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.Customerinfo.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.ticketInfo.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.frmHome.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.Resources.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.shows.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.StaffInput.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.staffPage.resources
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.vbproj.GenerateResource.cache
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.vbproj.CoreCompileInputs.cache
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.exe
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.xml
+\\2016-fs1.b6fc.ac.uk\A-DHomes$\abu198161\Desktop\theatreProject12April\theatreProject12April\theatreProject\obj\Debug\theatreProject.pdb
